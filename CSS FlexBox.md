@@ -66,7 +66,7 @@ flex-direction과 flex-wrap를 한 곳에 적을 수 있는 속성
 }
 ```
 
-![justify-content](images\justify-content.svg)
+![justify-content](images/justify-content.svg)
 
 #### align-items
 
